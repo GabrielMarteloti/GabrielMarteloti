@@ -9,8 +9,6 @@
   otimização de processos produtivos.
 </p>
 
----
-
 ### 🎯 Sobre mim
 
 - 🔭 Atualmente estudando **Engenharia de Software**
@@ -18,9 +16,6 @@
 - 🚀 Objetivo de carreira: **Analista de Dados → Engenheiro de Dados**
 - 🛠️ Desenvolvendo dashboards e soluções para **otimização de processos produtivos**
 - 🌱 Sempre aprendendo novas ferramentas e tecnologias na área de dados
-
-
-
 
 ### 🧰 Tecnologias e ferramentas
 
