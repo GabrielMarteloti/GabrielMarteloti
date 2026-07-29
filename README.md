@@ -12,4 +12,4 @@
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
 
-💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+💻 Estudante de Engenharia de Software com foco em análise de dados, automação e inteligência artificial. Experiência com Power BI, Excel, Seeq e Python, desenvolvendo dashboards e soluções para otimização de processos produtivos.
