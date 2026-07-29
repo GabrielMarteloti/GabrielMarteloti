@@ -38,6 +38,10 @@
   <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img align="center" alt="make" src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
 </p>
 
 ---
@@ -45,11 +49,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielMarteloti&show_icons=true&theme=default&count_private=true" alt="GabrielMarteloti GitHub stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMarteloti&theme=default" alt="GabrielMarteloti GitHub streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielMarteloti&show_icons=true&theme=default" alt="GabrielMarteloti GitHub stats" />
 </p>
 
 <p align="center">
