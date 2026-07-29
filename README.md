@@ -21,7 +21,6 @@
 
 
 
-### 🧰 Tecnologias e ferramentas
 
 ### 🧰 Tecnologias e ferramentas
 
