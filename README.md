@@ -1,4 +1,4 @@
-<img width="1336" height="634" alt="image" src="https://github.com/user-attachments/assets/e3760374-b7fb-4f46-b405-ce92dd511aff" />## Olá! Eu sou o Gabriel Marteloti 🖐️
+### Olá! Eu sou o Gabriel Marteloti 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitch.tv/fragabr)
