@@ -28,7 +28,7 @@
 - 🛠️ Desenvolvendo dashboards e soluções para **otimização de processos produtivos**
 - 🌱 Sempre aprendendo novas ferramentas e tecnologias na área de dados
 
----
+
 
 ### 🧰 Tecnologias e ferramentas
 
@@ -44,7 +44,7 @@
   <img align="center" alt="make" src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
 </p>
 
----
+
 
 ### 📊 Estatísticas do GitHub
 
