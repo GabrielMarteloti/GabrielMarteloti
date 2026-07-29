@@ -1,9 +1,10 @@
-## Olá! Eu sou o Gabriel Marteloti 🖐️
+<img width="1336" height="634" alt="image" src="https://github.com/user-attachments/assets/e3760374-b7fb-4f46-b405-ce92dd511aff" />## Olá! Eu sou o Gabriel Marteloti 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitch.tv/fragabr)
 
-![GabrielMarteloti GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarteloti&show_icons=true&theme=radical)
+![GabrielMarteloti GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMartnight
+
 
 ## Tecnologias que eu uso no meu dia
 
