@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitch.tv/fragabr)
 
-![GabrielMarteloti GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMartnight
+![GabrielMarteloti GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarteloti&show_icons=true&
 
 ## Tecnologias que eu uso no meu dia
 
