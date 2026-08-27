@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Gabriel Marteloti 👋</h1>
 
-<h3 align="center">Estudante de Engenharia de Software | Foco em Dados, Automação e IA</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Foco em Dados, Automação e IA</h3>
 
 <p align="center">
   💻 Aspirante a <strong>Analista de Dados</strong>, com objetivo de evoluir para <strong>Engenheiro de Dados</strong>.
