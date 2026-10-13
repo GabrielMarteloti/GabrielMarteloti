@@ -27,26 +27,37 @@ Este perfil reúne meus projetos de estudo. Todos usam **dados públicos ou sint
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel_·_Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Seeq](https://img.shields.io/badge/Seeq-0A5C8F?style=for-the-badge)
 
-**Programação e dados**
+**Programação e bancos de dados**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **Automação**
 
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+**Competências**
+
+SQL · Modelagem de dados · Limpeza e tratamento de dados · ETL · Indicadores e dashboards
 
 ## 🌱 Em estudo
 
 - ETL e pipelines de dados com Python
 - Modelagem dimensional (esquema estrela)
 - Orquestração (Airflow ou Prefect), dbt e Docker
-- Serviços de dados em nuvem (Azure)
+- Azure e aprofundamento em AWS para engenharia de dados
 
 ## 📂 Projetos
 
