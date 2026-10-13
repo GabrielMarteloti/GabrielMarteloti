@@ -72,8 +72,8 @@ SQL · Modelagem de dados · Limpeza e tratamento de dados · ETL · Indicadores
 
 ### 🎓 Trabalhos acadêmicos
 
-- [`TCC IFPR`](./) — Site de autocuidado com a pele (PHP)
-- [`Trabalhos Escolares`](./) — Atividades de front-end e estrutura de dados (HTML, C)
+- [`TCC IFPR`](https://github.com/GabrielMarteloti/trabalhos-academicos/tree/main/TCC%20IFPR) — Site de autocuidado com a pele (PHP)
+- [`Trabalhos Escolares`](https://github.com/GabrielMarteloti/trabalhos-academicos/tree/main/Atividades%20da%20Faculdade) — Atividades de front-end e estrutura de dados (HTML, C)
 
 ## 🎯 Objetivos para este ano
 
